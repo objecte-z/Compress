@@ -7,8 +7,8 @@ compress.exe -c input.txt output.*<br>
 
 # 解压<br>
 compress.exe -d output.*  restored.txt<br>
+#文件头
 
-#文件头<br>
     head：
         -magic：标识文件
         -total：原始数据总字节数
