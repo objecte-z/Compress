@@ -6,8 +6,8 @@
 compress.exe -c input.txt output.*<br>
 
 # 解压<br>
-compress.exe -d output.*  restored.txt<br>
-#文件头
+compress.exe -d output.*  restored.txt<br><br>
+
 
     head：
         -magic：标识文件
